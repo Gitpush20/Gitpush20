@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![mbel-bas's 42 stats](https://badge.mediaplus.ma/greenbinary/mbel-bas)](https://github.com/oakoudad/badge42)
 <!--
 **Gitpush20/gitpush20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
